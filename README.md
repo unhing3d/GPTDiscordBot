@@ -1,12 +1,12 @@
 DayZ Modding Assistant Bot
 
-A Discord bot powered by OpenAI GPT-4o, built specifically to help the DayZ modding community. It provides clear and detailed help with config files, Enforce Script, item retexturing, and general modding workflows.
+A Discord bot powered by OpenAI GPT-4o, built specifically to help the DayZ modding community. It provides clear and detailed help with config files, Enforce Script, item retexturing and general modding workflows.
 
 What It Can Do:
 
 - Answer modding questions using !mod
-- Provide guidance on config.cpp, mod.cpp, and Enforce Script
-- Help with item retexturing, texture formats, material config, and more
+- Provide guidance on config.cpp, mod.cpp and Enforce Script
+- Help with item retexturing, texture formats, material config and more
 - Offer testing and setup advice
 - Strictly focused on DayZ modding practices
 
@@ -45,7 +45,7 @@ Step 2: Invite Your Bot to a Server
    - Read Message History
    - Use Slash Commands (optional)
 4. Copy the generated invite link
-5. Open it in your browser and authorize the bot to join your server
+5. Open it in your browser and authorise the bot to join your server
 
 Setting It Up on Replit:
 
